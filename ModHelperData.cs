@@ -2,9 +2,9 @@ namespace GameModifiers;
 
 public static class ModHelperData
 {
-    public const string WorksOnVersion = "55.0";
-    public const string Version = "1.0.0";
-    public const string Name = "GameModifiers";
+    public const string WorksOnVersion = "55.2";
+    public const string Version = "1.0.1";
+    public const string Name = "Game Modifiers";
 
     public const string Description =
         "Adds a panel of optional, stackable game modifiers to the difficulty / " +
@@ -13,6 +13,6 @@ public static class ModHelperData
         "bloon health, faster bloons, swarms). Whatever is ticked applies to the " +
         "game you start, and they all stack.";
 
-    public const string RepoOwner = "";
-    public const string RepoName = "";
+    public const string RepoOwner = "forso4237";
+    public const string RepoName = "GameModifiers";
 }
