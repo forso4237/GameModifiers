@@ -3,7 +3,7 @@
     <img align="left" alt="Icon" height="90" src="Icon.png">
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
-All Luck
+Game Modifiers
 </h1>
 
 ### Adds modifiers to the game that can be enabled and disabled per-save.
